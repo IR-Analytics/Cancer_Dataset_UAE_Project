@@ -89,7 +89,7 @@ After cleaning, I loaded the data into a Jupyter Notebook and explored it using 
 
 | File | Description |
 |------|-------------|
-| `cancer_dataset_uae.sql` | SQL code used for cleaning |
+| `Data Cleaning on Cancer Dataset UAE.sql` | SQL code used for cleaning |
 | `cleaned_cancer_data.csv` | Final cleaned data |
 | `EDA on Cancer Dataset UAE.ipynb` | Jupyter Notebook with EDA |
 | `README.md` | This file 😄 |
